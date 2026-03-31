@@ -1,7 +1,8 @@
 # oss-audit--24BCY10378-
 Five automated shell scripts demonstrating Linux system identity, package management, log analysis, and permission auditing as part of an Open Source Software Capstone.
 
-Script Descriptions & Execution
+Script Descriptions & Execution:
+
 Script 1: System Identity Report
 Description: A system welcome screen that dynamically fetches and displays core identity metrics of the host Linux environment, including the distribution name, kernel version, current user, uptime, and the underlying OS open-source license.
 
