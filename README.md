@@ -9,10 +9,10 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project is an extensive audit of Git as a Free and Open Source Software (FOSS). It covers the historical shift from proprietary systems (BitKeeper) to decentralized version control, examines the **GPL v2** licensing model, and provides a suite of Bash shell scripts for system auditing, package management, and log analysis.
 
-## 💻 Environment Requirements
+##  Environment Requirements
 To run the scripts in this repository, you need:
 * **Operating System:** Linux (Optimized for **Ubuntu 24.04 LTS** or WSL2).
 * **Shell:** Bash[cite: 218].
@@ -21,7 +21,7 @@ To run the scripts in this repository, you need:
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 ### 1. Update Your System
 Ensure your local package index is up to date:
@@ -44,7 +44,7 @@ which git
 
 ---
 
-## 🛠️ Execution Instructions
+##  Execution Instructions
 
 The project includes five primary scripts. Follow these steps to set permissions and execute them.
 
@@ -68,9 +68,9 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 * **`OSS_linux(24BCY10378).docx`**: The core audit report covering FOSS philosophy and licenses.
 * **`script1.sh` to `script5.sh`**: Automated Bash utilities.
 
-## ⚖️ License and Ethics
+##  License and Ethics
 This project is centered on the **GNU General Public License version 2 (GPL v2)**. It adheres to the "Four Freedoms": the right to run, study, share, and modify the software.
